@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MoveListItems
 {
    public class Constant
-    {
+    {//v1
        public const string CONST_SourceSiteUrl = "SourceSiteUrl";
        public const string CONST_DestinationSiteUrl = "DestinationSiteUrl";
        public const string CONST_SourceUserName = "SourceUserName";
